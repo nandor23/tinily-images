@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86.4 86.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sfumatura_senza_nome_1391);
+      }
+
+      .cls-2 {
+        fill: url(#Sfumatura_senza_nome_1392-2);
+      }
+
+      .cls-3 {
+        fill: url(#Sfumatura_senza_nome_1392);
+      }
+
+      .cls-4 {
+        fill: url(#Sfumatura_senza_nome_1391-2);
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_1392" data-name="Sfumatura senza nome 1392" x1="119.75" y1="786.99" x2="92.27" y2="763.52" gradientTransform="translate(505.21 -574.97) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1dc1c1"/>
+      <stop offset=".15" stop-color="#1dbabc"/>
+      <stop offset=".36" stop-color="#20a6b1"/>
+      <stop offset=".62" stop-color="#24869f"/>
+      <stop offset=".9" stop-color="#295a85"/>
+      <stop offset="1" stop-color="#2c4a7c"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_1391" data-name="Sfumatura senza nome 1391" x1="93.46" y1="793.41" x2="91.98" y2="741.2" gradientTransform="translate(505.21 -574.97) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c4a7c"/>
+      <stop offset=".1" stop-color="#295a85"/>
+      <stop offset=".38" stop-color="#24869f"/>
+      <stop offset=".64" stop-color="#20a6b1"/>
+      <stop offset=".85" stop-color="#1dbabc"/>
+      <stop offset="1" stop-color="#1dc1c1"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_1392-2" data-name="Sfumatura senza nome 1392" x1="1828.92" y1="-95.67" x2="1801.45" y2="-119.14" gradientTransform="translate(1413.88 1245.8) rotate(-135)" xlink:href="#Sfumatura_senza_nome_1392"/>
+    <linearGradient id="Sfumatura_senza_nome_1391-2" data-name="Sfumatura senza nome 1391" x1="1802.63" y1="-89.25" x2="1801.16" y2="-141.46" gradientTransform="translate(1413.88 1245.8) rotate(-135)" xlink:href="#Sfumatura_senza_nome_1391"/>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <g>
+        <path class="cls-3" d="m21.88,58.52l6.46-6.46,28.9-28.9c5.3-5.3,5.3-13.88,0-19.18h0c-5.3-5.3-13.88-5.3-19.18,0L3.97,38.07c-5.3,5.3-5.3,13.88,0,19.18l9.59,9.59,5.39,5.39c-1.36-1.36-2.69-8.09,2.93-13.71Z"/>
+        <path class="cls-1" d="m57.25,3.97h0c-5.3-5.3-13.88-5.3-19.18,0L3.97,38.07c18.92-18.92,44.15-5.79,53.28-14.91,5.3-5.3,5.3-13.88,0-19.18Z"/>
+      </g>
+      <g>
+        <path class="cls-2" d="m64.52,27.89l-6.46,6.46-28.9,28.9c-5.3,5.3-5.3,13.88,0,19.18h0c5.3,5.3,13.88,5.3,19.18,0l34.09-34.09c5.3-5.3,5.3-13.88,0-19.18l-9.59-9.59-5.39-5.39c1.36,1.36,2.69,8.09-2.93,13.71Z"/>
+        <path class="cls-4" d="m29.16,82.43h0c5.3,5.3,13.88,5.3,19.18,0l34.09-34.09c-18.92,18.92-44.15,5.79-53.28,14.91-5.3,5.3-5.3,13.88,0,19.18Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
